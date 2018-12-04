@@ -1,2 +1,2 @@
-# Azure Module 2
+# Azure Module 6
 #### Completed in class.
